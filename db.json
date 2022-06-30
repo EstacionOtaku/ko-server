@@ -1,0 +1,178 @@
+{
+  "categories": [
+    {
+      "createdAt": "2022-06-30T04:11:57.808Z",
+      "name": "Plastic",
+      "reference_image": "http://loremflickr.com/640/480",
+      "id": 1
+    },
+    {
+      "createdAt": "2022-06-30T17:11:16.026Z",
+      "name": "Steel",
+      "reference_image": "http://loremflickr.com/640/480",
+      "id": 2
+    },
+    {
+      "createdAt": "2022-06-30T19:46:34.953Z",
+      "name": "Steel",
+      "reference_image": "http://loremflickr.com/640/480",
+      "id": 3
+    },
+    {
+      "createdAt": "2022-06-30T00:45:13.157Z",
+      "name": "Plastic",
+      "reference_image": "http://loremflickr.com/640/480",
+      "id": 4
+    },
+    {
+      "createdAt": "2022-06-30T04:40:00.933Z",
+      "name": "Bronze",
+      "reference_image": "http://loremflickr.com/640/480",
+      "id": 5
+    }
+  ],
+  "series": [
+    {
+      "createdAt": "2022-06-30T08:24:04.055Z",
+      "name": "Dr. Jim Walsh",
+      "reference_image": "http://loremflickr.com/640/480/abstract",
+      "id": 1
+    },
+    {
+      "createdAt": "2022-06-30T11:10:40.880Z",
+      "name": "Silvia Pfannerstill",
+      "reference_image": "http://loremflickr.com/640/480/abstract",
+      "id": 2
+    },
+    {
+      "createdAt": "2022-06-30T03:30:44.989Z",
+      "name": "Erik Schiller III",
+      "reference_image": "http://loremflickr.com/640/480/abstract",
+      "id": 3
+    },
+    {
+      "createdAt": "2022-06-30T03:47:15.839Z",
+      "name": "Phillip Brekke",
+      "reference_image": "http://loremflickr.com/640/480/abstract",
+      "id": 4
+    },
+    {
+      "createdAt": "2022-06-30T17:12:54.381Z",
+      "name": "Ruben Robel",
+      "reference_image": "http://loremflickr.com/640/480/abstract",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "createdAt": "2022-06-30T18:54:56.535Z",
+      "name": "Sleek Fresh Sausages",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": 834,
+      "active": true,
+      "id": 1,
+      "series_id": 1,
+      "category_id": 1
+    },
+    {
+      "createdAt": "2022-06-30T10:43:56.072Z",
+      "name": "Elegant Steel Soap",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": 318,
+      "active": false,
+      "id": 2,
+      "series_id": 2,
+      "category_id": 2
+    },
+    {
+      "createdAt": "2022-06-30T07:21:47.683Z",
+      "name": "Handmade Metal Hat",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": 425,
+      "active": false,
+      "id": 3,
+      "series_id": 3,
+      "category_id": 3
+    },
+    {
+      "createdAt": "2022-06-30T07:29:01.673Z",
+      "name": "Ergonomic Fresh Bacon",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": 439,
+      "active": false,
+      "id": 4,
+      "series_id": 4,
+      "category_id": 4
+    },
+    {
+      "createdAt": "2022-06-29T22:10:40.544Z",
+      "name": "Bespoke Granite Cheese",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 89,
+      "active": false,
+      "id": 5,
+      "series_id": 5,
+      "category_id": 5
+    },
+    {
+      "createdAt": "2022-06-30T17:46:50.206Z",
+      "name": "Licensed Metal Shirt",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": 658,
+      "active": true,
+      "id": 6,
+      "series_id": 1,
+      "category_id": 1
+    },
+    {
+      "createdAt": "2022-06-30T05:58:45.486Z",
+      "name": "Practical Cotton Bike",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": 705,
+      "active": false,
+      "id": 7,
+      "series_id": 2,
+      "category_id": 2
+    },
+    {
+      "createdAt": "2022-06-29T21:34:49.029Z",
+      "name": "Ergonomic Frozen Chair",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": 538,
+      "active": false,
+      "id": 8,
+      "series_id": 3,
+      "category_id": 3
+    },
+    {
+      "createdAt": "2022-06-30T15:51:13.354Z",
+      "name": "Handcrafted Steel Chicken",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": 25,
+      "active": false,
+      "id": 9,
+      "series_id": 4,
+      "category_id": 4
+    },
+    {
+      "createdAt": "2022-06-30T19:57:53.955Z",
+      "name": "Fantastic Rubber Table",
+      "image": "http://loremflickr.com/640/480/fashion",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": 736,
+      "active": true,
+      "id": 10,
+      "series_id": 5,
+      "category_id": 5
+    }
+  ]
+}
