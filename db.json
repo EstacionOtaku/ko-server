@@ -1374,7 +1374,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta básica de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/nVGWmrXQ/Camiseta-b-sica-de-Fairy-Tail.jpg",
       "description": "Camiseta blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 52,
       "active": true,
@@ -1385,7 +1385,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta con estampado de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/jjfgSSV2/Camiseta-con-estampado-de-Fairy-Tail.jpg",
       "description": "Camiseta negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 50,
       "active": true,
@@ -1396,7 +1396,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta con estampado para hombre de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/ydzfgCBP/Camiseta-con-estampado-para-hombre-de-Fairy-Tail.jpg",
       "description": "Camiseta gris con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1407,7 +1407,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/KYtfypLg/Camiseta-de-Fairy-Tail.jpg",
       "description": "Camiseta negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1418,7 +1418,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta manga larga de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/qqvxykF8/Camiseta-manga-larga-de-Fairy-Tail.jpg",
       "description": "Camiseta blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 50,
       "active": true,
@@ -1429,7 +1429,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta 3D de Fate",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/QdTkpYfn/Camiseta-3-D-de-Fate.jpg",
       "description": "Camiseta con negra estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1440,7 +1440,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta 3D para hombre de Fate",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/4NJxvYBC/Camiseta-3-D-para-hombre-de-Fate.jpg",
       "description": "Camiseta negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1451,7 +1451,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta con estampado de Fate",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/mknC97Cs/Camiseta-con-estampado-de-Fate.jpg",
       "description": "Camiseta negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 50,
       "active": true,
@@ -1462,7 +1462,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta con estampado unisex de Fate",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/15NNTnD8/Camiseta-con-estampado-unisex-de-Fate.jpg",
       "description": "Camiseta blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1473,7 +1473,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta de Fate",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Prm1JvJB/Camiseta-de-Fate.jpg",
       "description": "Camiseta negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 52,
       "active": true,
@@ -1484,7 +1484,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta Tohsaka para hombre de Fate",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/cHp84dSx/Camiseta-Tohsaka-para-hombre-de-Fate.jpg",
       "description": "Camiseta negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 50,
       "active": true,
@@ -1495,7 +1495,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta con estampado de Edward Elric de Fullmetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Zq098WYY/Camiseta-con-estampado-de-Edward-Elric-de-Fullmetal-Alchemist.jpg",
       "description": "Camiseta blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1506,7 +1506,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta con estampado de Edward Elric y Alphonse Elric de Fullmetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/fL9JP106/Camiseta-con-estampado-de-Edward-Elric-y-Alphonse-Elric-de-Fullmetal-Alchemist.jpg",
       "description": "Camiseta blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1517,7 +1517,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta con estampado de Fullmetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Fz1mqLq1/Camiseta-con-estampado-de-Fullmetal-Alchemist.jpg",
       "description": "Camiseta negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 50,
       "active": true,
@@ -1528,7 +1528,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta con estampado Fullmetal Alchemist.",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/6pCKDwHV/Camiseta-con-estampado-Fullmetal-Alchemist.jpg",
       "description": "Camiseta blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1539,7 +1539,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta de Edward Elric de Fullmetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/yxJ4nzgZ/Camiseta-de-Edward-Elric-de-Fullmetal-Alchemist.jpg",
       "description": "Camiseta blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 52,
       "active": true,
@@ -1550,7 +1550,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta de Fullmetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/PrwnwTkG/Camiseta-de-Fullmetal-Alchemist.jpg",
       "description": "Camiseta negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 50,
       "active": true,
@@ -1561,7 +1561,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta de Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/1tjb8YC5/Camiseta-de-Haikyuu.jpg",
       "description": "Camiseta negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 48,
       "active": true,
@@ -1572,7 +1572,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta estampada con Tobio Kageyama de Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/4djZDdT5/Camiseta-estampada-con-Tobio-Kageyama-de-Haikyuu.jpg",
       "description": "Camiseta negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1583,7 +1583,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta estampadas con ojos divertidos de los personajes del Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Dw7FkHRt/Camiseta-estampadas-con-ojos-divertidos-de-los-personajes-del-Haikyuu.jpg",
       "description": "Camiseta negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 50,
       "active": true,
@@ -1594,7 +1594,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta Haikyuu para caballeros",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/kgjrr4Qb/Camiseta-Haikyuu-para-caballeros.jpg",
       "description": "Camiseta gris con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 45,
       "active": true,
@@ -1605,7 +1605,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta Haikyuu para damas ",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/yxh5LY6W/Camiseta-Haikyuu-para-damas.jpg",
       "description": "Camiseta blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 52,
       "active": true,
@@ -1616,7 +1616,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Camiseta personajes Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/kggZym0X/Camiseta-personajes-Haikyuu.jpg",
       "description": "Camiseta negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 50,
       "active": true,
@@ -1627,7 +1627,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Figuras de Ryuguji Ken de Tokyo Revengers",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/y8Djd8q9/Figuras-de-Ryuguji-Ken-de-Tokyo-Revengers.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 150,
       "active": true,
@@ -1638,7 +1638,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Figura de Manjiro Sano de Tokyo Revengers",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/tRDNNxpW/Figura-de-Manjiro-Sano-de-Tokyo-Revengers.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 160,
       "active": true,
@@ -1649,7 +1649,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Figura de Keisuke de Tokyo Revengers",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/pTCzCwbR/Figura-de-Keisuke-de-Tokyo-Revengers.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 170,
       "active": true,
@@ -1660,7 +1660,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Figura de colección de Tokyo Revenges",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/WbCr5mKF/Figura-de-coleccion-de-Tokyo-Revenges-10cm.jpg",
       "description": "Paquete de 5 figuras de colección de 10 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 200,
       "active": true,
@@ -1671,7 +1671,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Figura de acción de Takemichi Hanagaki de Tokyo Revengers",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/J0tDqt55/Figura-de-acci-n-de-Takemichi-Hanagaki-de-Tokyo-Revengers.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 160,
       "active": true,
@@ -1682,7 +1682,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.888679",
       "name": "Figura de acción de Manjiro Sano de Tokyo Revengers",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/XY9ZxRdm/Figura-de-acci-n-de-Manjiro-Sano-de-Tokyo-Revengers.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 150,
       "active": true,
@@ -1693,7 +1693,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Lote de Figuras de Tokyo Ghoul",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/jC0x7jg5/Lote-de-Figura-de-6-unids-de-Tokyo-Ghoul-Re-Kaneki-Ken-Sasaki-Haise-Takizawa-Juuzou-Uta-Furuta.jpg",
       "description": "Paquete de 6 figuras de colección de 10 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 200,
       "active": true,
@@ -1704,7 +1704,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de Touka Kirishima de Tokyo Ghoul",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/CKLq1vn2/Figura-de-Touka-Kirishima-de-Tokyo-Ghoul.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 150,
       "active": true,
@@ -1715,7 +1715,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de Ken Kaneki versión Kakuja de Tokyo Ghoul",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/ZnrRj3y3/Figura-de-Ken-Kaneki-versi-n-Kakuja-de-Tokyo-Ghoul.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 160,
       "active": true,
@@ -1726,7 +1726,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de Ken Kaneki sentado de Tokyo Ghoul",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/6qN6731Q/Figura-de-Ken-Kaneki-sentado-de-Tokyo-Ghoul.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 170,
       "active": true,
