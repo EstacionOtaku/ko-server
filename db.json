@@ -2903,7 +2903,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de Rin Tohsaka de Fate Stay Night",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/GhXwZjwK/Figura-de-Rin-Tohsaka-de-Fate-Stay-Night.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 150,
       "active": true,
@@ -2914,7 +2914,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de Saber Alter de Fate Stay Night",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/FHqtKsKJ/Figura-de-Saber-Alter-de-Fate-Stay-Night.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 160,
       "active": true,
@@ -2925,7 +2925,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de Saber de Fate Stay Night",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/RhGyxv8h/Figura-de-Saber-de-Fate-Stay-Night.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 150,
       "active": true,
@@ -2936,7 +2936,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de Alphonse Elric FullMetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/RVV2Qn6H/Figura-de-Alphonse-Elric-Full-Metal-Alchemist.jpg",
       "description": "Figura original de 10 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 120,
       "active": true,
@@ -2946,8 +2946,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.889680",
-      "name": "Figura de el alquimista de metal de Fullmetal Alchemist",
-      "image": "WWW",
+      "name": "Figura del alquimista de metal de Fullmetal Alchemist",
+      "image": "https://i.postimg.cc/3RFb2K31/Figura-de-el-alquimista-de-metal-de-Fullmetal-Alchemist.jpg",
       "description": "Figura original de 10 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 100,
       "active": true,
@@ -2958,7 +2958,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de fuhrer de Fullmetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/L8gCNkHn/Figura-de-fuhrer-de-Fullmetal-Alchemist.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 150,
       "active": true,
@@ -2969,7 +2969,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de Roy Mustang de Fullmetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/bvX6MGJL/Figura-de-Roy-Mustang-de-Fullmetal-Alchemist.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 160,
       "active": true,
@@ -2980,7 +2980,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura Edward Elric usando alquimia de Fullmetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/JhbTW1H8/Figura-Edward-Elric-usando-alquimia-de-Fullmetal-Alchemist.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 170,
       "active": true,
@@ -2991,7 +2991,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figuras Chibi de Edward y Alphonse Elric Full Metal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/h4C2nZvX/Figuras-Chibi-de-Edward-y-Alphonse-Elric-Full-Metal-Alchemist.jpg",
       "description": "Paquete de 2 figuras de colección de 8 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 150,
       "active": true,
@@ -3002,7 +3002,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figura de Hitoka Yachi Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/jj3ym2RC/Figura-de-Hitoka-Yachi-Haikyuu.jpg",
       "description": "Figura original de 18 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 80,
       "active": true,
@@ -3013,7 +3013,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figuras de Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/0yct5881/Figuras-de-Haikyuu-2.jpg",
       "description": "Paquete de 11 figuras de colección de 10 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 210,
       "active": true,
@@ -3024,7 +3024,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figuras de Hinata Syouyou y Tobio Kageyama de Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Hx73tXbT/Figuras-de-Hinata-Syouyou-y-Tobio-Kageyama-de-Haikyuu.jpg",
       "description": "Paquete de 2 figuras de colección de 10 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 140,
       "active": true,
@@ -3035,7 +3035,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figuras de personajes variados de Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/XqSL1qgd/Figuras-de-personajes-variados-de-Haikyuu.jpg",
       "description": "Paquete de 4 figuras de colección de 8 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 170,
       "active": true,
@@ -3046,7 +3046,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figuras de Shoyo Hinata, Tobio Kageyama y más de Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/zvCjsNdM/Figuras-de-Shoyo-Hinata-Tobio-Kageyama-y-m-s-de-Haikyuu.jpg",
       "description": "Paquete de 4 figuras de colección de 10 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 190,
       "active": true,
@@ -3057,7 +3057,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Figuras del anime Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/XqSL1qgd/Figuras-de-personajes-variados-de-Haikyuu.jpg",
       "description": "Paquete de 4 figuras de colección de 10 cm hecha de PVC.\n*Consulta sobre la disponibilidad del producto.",
       "price": 170,
       "active": true,
@@ -3904,7 +3904,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla de alma Yukine de anime Noragami",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/MpPD2dDW/Mascarilla-de-alma-yukine-de-anime-Noragami.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -3915,7 +3915,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla con figura de anime Noragami",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/wBnQ3MZZ/Mascarilla-con-figura-de-anime-Noragami.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -3926,7 +3926,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla blanca de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/qqTcXYkG/Mascarilla-blanca-de-Banana-Fish.jpg",
       "description": "Mascarilla blanca con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -3937,7 +3937,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla con personajes de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/15M0wJbp/Mascarilla-con-personajes-de-Banana-Fish.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -3948,7 +3948,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla de Ash de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Bn6Tg2GR/Mascarilla-de-Ash-de-Banana-Fish.jpg",
       "description": "Mascarilla verde con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -3959,7 +3959,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/vZNWSDYT/Mascarilla-de-Banana-Fish.jpg",
       "description": "Mascarilla amarilla con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 22,
       "active": true,
@@ -3970,7 +3970,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla de Eiji de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/fyDX09K2/Mascarilla-de-Eiji-de-Banana-Fish.jpg",
       "description": "Mascarilla rosa con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -3981,7 +3981,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla de Gant de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/MKsRvXj5/Mascarilla-de-Gant-de-Banana-Fish.jpg",
       "description": "Mascarilla amarilla con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 30,
       "active": true,
@@ -3992,7 +3992,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla inspirada de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/t4Y6Py3j/Mascarilla-inspirada-de-Banana-Fish.jpg",
       "description": "Mascarilla amarilla con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4003,7 +4003,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla con diseño de Dabi de Boku No Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/6Qx11H5y/Mascarilla-con-dise-o-de-Dabi-de-Boku-No-Hero.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4014,7 +4014,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla con diseño de Eri de Boku No Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/26FLm5D4/Mascarilla-con-dise-o-de-Eri-de-Boku-No-Hero.jpg",
       "description": "Mascarilla blanca con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4025,7 +4025,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla con diseño de Himiko de Boku No Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/285LRmXZ/Mascarilla-con-dise-o-de-Himiko-de-Boku-No-Hero.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 22,
       "active": true,
@@ -4036,7 +4036,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla con diseño de Keigo de Boku No Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/c45gdjV5/Mascarilla-con-dise-o-de-Keigo-de-Boku-No-Hero.jpg",
       "description": "Mascarilla blanca con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4047,7 +4047,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla con diseño de Toya de Boku No Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/1tHX2YGB/Mascarilla-con-dise-o-de-Toya-de-Boku-No-Hero.jpg",
       "description": "Mascarilla celeste con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4058,7 +4058,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla con personaje de Boku No Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/PJVxrpF8/Mascarilla-con-personaje-de-Boku-No-Hero.jpg",
       "description": "Mascarilla blanca con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4069,7 +4069,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla de anime Darling In The FranXX",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/X7Xq1LpK/Mascarilla-de-anime-Darling-In-The-Fran-XX.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 22,
       "active": true,
@@ -4080,7 +4080,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla inspirada en Darling In The FranXX",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/cLnH0J7r/Mascarilla-inspirada-en-Darling-In-The-Fran-XX.jpg",
       "description": "Mascarilla morado con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4091,7 +4091,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.889680",
       "name": "Mascarilla con logo de Kira de Death Note",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/ZnQbhkC8/Mascarilla-con-logo-de-Kira-de-Death-Note.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 30,
       "active": true,
@@ -4102,7 +4102,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Kira de Death Note",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/3whKhFJc/Mascarilla-de-Kira-de-Death-Note.jpg",
       "description": "Mascarilla blanca con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4113,7 +4113,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Misa Amane de Death Note",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/wBk9jR1T/Mascarilla-de-Misa-Amane-de-Death-Note.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4124,7 +4124,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de N de Death Note",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/bJNpDYn0/Mascarilla-de-N-de-Death-Note.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4134,8 +4134,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Mascarilla i am Kira de Death Note",
-      "image": "WWW",
+      "name": "Mascarilla I am Kira de Death Note",
+      "image": "https://i.postimg.cc/6q8KcHYy/Mascarilla-i-am-Kira-de-Death-Note.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 22,
       "active": true,
@@ -4146,7 +4146,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla inspirada en Kira de Death Note",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/KjC2HnHQ/Mascarilla-inspirada-en-Kira-de-Death-Note.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4157,7 +4157,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Dorumon de Digimon",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/htWn81xt/Mascarilla-de-Dorumon-de-Digimon.jpg",
       "description": "Mascarilla negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 30,
       "active": true,
@@ -4168,7 +4168,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Gabumon de Digimon",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/7Z3kKJMM/Mascarilla-de-Gabumon-de-Digimon.jpg",
       "description": "Mascarilla blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4179,7 +4179,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Guilmon de Digimon",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/1zyZ2Rvx/Mascarilla-de-Guilmon-de-Digimon.jpg",
       "description": "Mascarilla negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4190,7 +4190,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Patamon de Digimon",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/1tt1RCxJ/Mascarilla-de-Patamon-de-Digimon.jpg",
       "description": "Mascarilla blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 22,
       "active": true,
@@ -4201,7 +4201,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla patron de aventura de Digimon",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/mD5fPYBR/Mascarilla-patron-de-aventura-de-Digimon.jpg",
       "description": "Mascarilla negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4212,7 +4212,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Cell de Dragon Ball",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/0jSkxWmh/Mascarilla-de-Cell-de-Dragon-Ball.jpg",
       "description": "Mascarilla verde con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 30,
       "active": true,
@@ -4223,7 +4223,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Goku de Dragon Ball",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/cL0xycJ5/Mascarilla-de-Goku-de-Dragon-Ball.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4234,7 +4234,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Goku dios super sayan Dragon Ball",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/bwCKC0Sn/Mascarilla-de-Goku-dios-super-siyan-Dragon-Ball.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4245,7 +4245,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de maestro Rochi de Dragon Ball",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/CK99YFNL/Mascarilla-de-maestro-Rochi-de-Dragon-Ball.jpg",
       "description": "Mascarilla blanca con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4256,7 +4256,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla saiyan de Dragon Ball",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/QC3P90w2/Mascarilla-saiyan-de-Dragon-Ball.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4267,7 +4267,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla team de Dragon Ball",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/4xSSbJjb/Mascarilla-team-de-Dragon-Ball.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 22,
       "active": true,
@@ -4278,7 +4278,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla arcoiris de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/qRjbq4c3/Mascarilla-arcoiris-de-Fairy-Tail.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4289,7 +4289,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla con el logo de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/SRRZz3Vt/Mascarilla-con-el-logo-de-Fairy-Tail.jpg",
       "description": "Mascarilla blanca con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 30,
       "active": true,
@@ -4300,7 +4300,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla con personaje de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/NM33BgQk/Mascarilla-de-personaje-de-Fairy-Tail.jpg",
       "description": "Mascarilla negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4311,7 +4311,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Gremio de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/W3ky9Q0F/Mascarilla-de-Gremio-de-Fairy-Tail.jpg",
       "description": "Mascarilla blanca con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4322,7 +4322,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de personaje de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/D0QMhLj7/Mascarilla-con-personaje-de-Fairy-Tail.jpg",
       "description": "Mascarilla blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4333,7 +4333,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla del anime de Fairy Tail",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/hj9ZBVvp/Mascarilla-del-anime-de-Fairy-Tail.jpg",
       "description": "Mascarilla negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 22,
       "active": true,
@@ -4343,8 +4343,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Mascarilla  para dama de Fate Stay Night",
-      "image": "WWW",
+      "name": "Mascarilla para dama de Fate Stay Night",
+      "image": "https://i.postimg.cc/FHHBtfjQ/Mascarilla-para-dama-de-Fate-Stay-Night.jpg",
       "description": "Mascarilla gris con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4355,7 +4355,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla con estampado de Fate Stay Night",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/7ZtQqxVJ/Mascarilla-con-estampado-de-Fate-Stay-Night.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 30,
       "active": true,
@@ -4366,7 +4366,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Fate Stay Night",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/G2GMPv1v/Mascarilla-de-Fate-Stay-Night.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4377,7 +4377,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de hombre de Fate Stay Night",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/wMzww36Z/Mascarilla-de-hombre-de-Fate-Stay-Night.jpg",
       "description": "Mascarilla roja con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4388,7 +4388,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla fantasy de Fate Stay Night",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/xjGxcG52/Mascarilla-fantasy-de-Fate-Stay-Night.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4399,7 +4399,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla unisex de Fate Stay Night",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/7YmKNxjt/Mascarilla-unisex-de-Fate-Stay-Night.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 22,
       "active": true,
@@ -4410,7 +4410,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de afro samurai FullMetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/CKfJYb59/Mascarilla-de-afro-samurai-Full-Metal-Alchemist.jpg",
       "description": "Mascarilla negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4421,7 +4421,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de Terpres FullMetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/MTSbyTbL/Mascarilla-de-Terpres-Full-Metal-Alchemist.jpg",
       "description": "Mascarilla blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 30,
       "active": true,
@@ -4432,7 +4432,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla del logo FullMetal Alchemist",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/nrLdDrnJ/Mascarilla-del-logo-Full-Metal-Alchemist.jpg",
       "description": "Mascarilla negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4443,7 +4443,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla con carácteres de Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/gcD7M975/Mascarilla-con-car-cteres-de-Haikyuu.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4453,8 +4453,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Mascarilla con dinujo de Haikyuu",
-      "image": "WWW",
+      "name": "Mascarilla con dibujo de Haikyuu",
+      "image": "https://i.postimg.cc/fLsHK5fD/Mascarilla-con-dinujo-de-Haikyuu.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 20,
       "active": true,
@@ -4465,7 +4465,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla de ilustración de Shoyo Hinata Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Hsn6BrXc/Mascarilla-de-ilustraci-n-de-Shoyo-Hinata-Haikyuu.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 22,
       "active": true,
@@ -4476,7 +4476,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla del Karasuno con filtro Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/XqzcTgdZ/Mascarilla-del-Karasuno-con-filtro-Haikyuu.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 25,
       "active": true,
@@ -4487,7 +4487,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Mascarilla del lema de Haikyuu",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/wjJcGLvv/Mascarilla-del-lema-de-Haikyuu.jpg",
       "description": "Mascarilla negra con estampado a color.\n*Consulta la disponibilidad de nuestro stock.",
       "price": 30,
       "active": true,
@@ -4564,7 +4564,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas de Tokyo Ghoul con los ojos de Kaneki Ken",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/2yZVSdgL/Sudaderas-de-Tokyo-Ghoul-con-los-ojos-de-Kaneki-Ken.jpg",
       "description": "Sudadera negra y/o blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 250,
       "active": true,
@@ -4575,7 +4575,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas de Tokio Ghoul sentado para hombres",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/G2Sy2m2V/Sudaderas-de-Tokio-Ghoul-sentado-para-hombres.jpg",
       "description": "Sudadera gris con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 150,
       "active": true,
@@ -4586,7 +4586,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con las letras del Tokyo Ghoul",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/fT7cNXXg/Sudaderas-con-las-letras-del-Tokyo-Ghoul.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 170,
       "active": true,
@@ -4597,7 +4597,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con estampado de Tokyo Ghoul",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/x82Xxxsj/Sudaderas-con-estampado-de-Tokyo-Ghoul.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 230,
       "active": true,
@@ -4608,7 +4608,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con capucha Tokyo Ghoul",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/4N4dYhq0/Sudaderas-con-capucha-Tokyo-Ghoul.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -4619,7 +4619,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas 3D con capucha Tokyo Ghoul para caballeros",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/rsV8Rvn4/Sudaderas-3-D-con-capucha-Tokyo-Ghoul-para-caballeros.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4630,7 +4630,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con cremallera de Shingeki No Kyojin «Logo en Dorado",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/bN4KK7xR/Sudaderas-con-cremallera-de-Shingeki-No-Kyojin-Logo-en-Dorado.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -4641,7 +4641,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con capucha de Shingeki No Kyojin",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/B6XWW4VM/Sudadera-con-capucha-de-Shingeki-No-Kyojin.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4652,7 +4652,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas animadas de los personajes de Shingeki No Kyojin",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/W3BsXd1M/Sudaderas-animadas-de-los-personajes-de-Shingeki-No-Kyojin.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -4663,7 +4663,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera para damas Shingeki No Kyojin",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/kXF7vX3b/Sudadera-para-damas-Shingeki-No-Kyojin.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -4674,7 +4674,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con logo de Shingeki No Kyojin",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/C5pVb9c7/Sudadera-con-logo-de-Shingeki-No-Kyojin.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -4685,7 +4685,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Shingeki No Kyojin",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/B6XWW4VM/Sudadera-con-capucha-de-Shingeki-No-Kyojin.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4695,8 +4695,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Sudaderas ploma con capucha de Gengar del Pokémon",
-      "image": "WWW",
+      "name": "Sudadera ploma con capucha de Gengar del Pokémon",
+      "image": "https://i.postimg.cc/7P3Fpssv/Sudaderas-ploma-con-capucha-de-Gengar-del-Pok-mon.jpg",
       "description": "Sudadera gris con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -4706,8 +4706,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Sudaderas negra con capucha de Gengar del Pokémon",
-      "image": "WWW",
+      "name": "Sudadera negra con capucha de Gengar del Pokémon",
+      "image": "https://i.postimg.cc/kg4LRnn9/Sudaderas-negra-con-capucha-de-Gengar-del-Pok-mon.jpg",
       "description": "Sudadera negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4718,7 +4718,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas de Pikachu del Pokémon para niños",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/g2TQvfJh/Sudaderas-de-Pikachu-del-Pok-mon-para-ni-os.jpg",
       "description": "Sudadera de diversos colores con estampado a color.\n*Consulta la disponibilidad de nuestras tallas y colores de sudadera.",
       "price": 60,
       "active": true,
@@ -4729,7 +4729,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con capucha Pokémon para hombres y mujeres",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/HnzPjNRV/Sudaderas-con-capucha-Pok-mon-para-hombres-y-mujeres.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -4740,7 +4740,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con capucha de Pokémon para hombres",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/fRJgTBKR/Sudaderas-con-capucha-de-Pok-mon-para-hombres.jpg",
       "description": "Sudadera naranja con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -4751,7 +4751,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera y pantalón de Pokemón para niños",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/DyYBD1Tk/Sudadera-pantal-n-de-Pokem-n-para-ni-os.jpg",
       "description": "Sudadera  y pantalón de diversos colores con estampado a color.\n*Consulta la disponibilidad de nuestras tallas, colores de sudadera y/o pantalón.",
       "price": 75,
       "active": true,
@@ -4762,7 +4762,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha ilustrada con Roronoa Zoro de One Piece",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/TYR3SWc9/Sudadera-con-capucha-ilustrada-con-Roronoa-Zoro-de-One-Piece.jpg",
       "description": "Sudadera negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -4773,7 +4773,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Sombrero de paja de One Piece",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/bwZpc0SQ/Sudadera-con-capucha-de-Sombrero-de-paja-de-One-Piece.jpg",
       "description": "Sudadera crema con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4784,7 +4784,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Roronoa Zoro de One Piece",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/sfKrMHpY/Sudadera-con-capucha-de-Roronoa-Zoro-de-One-Piece.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -4795,7 +4795,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de mirada de Sanji de One Piece",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/QNf2893S/Sudadera-con-capucha-de-mirada-de-Sanji-de-One-Piece.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -4806,7 +4806,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de mirada de Luffy de One Piece",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/3rfqMsXc/Sudadera-con-capucha-de-mirada-de-Luffy-de-One-Piece.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -4817,7 +4817,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de los piratas de One Piece",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Gt6zB1z3/Sudadera-con-capucha-de-los-los-piratas-del-sombrero-de-paja-de-One-Piece.png",
       "description": "Sudadera negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4828,7 +4828,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas para niños de Uzumaki Naruto de Naruto",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/rphH876s/Sudadera-para-ni-os-de-Uzumaki-Naruto-de-Naruto.jpg",
       "description": "Sudadera crema con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -4839,7 +4839,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con capucha de los diferentes personajes de Naruto Unisex",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/RVrDVcY7/Sudadera-con-capucha-de-los-diferentes-personajes-de-Naruto.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4850,7 +4850,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con capucha de la Aldea Oculta de la Hoja de Naruto",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/4xPL5jxP/Sudadera-con-capucha-de-la-Aldea-Oculta-de-la-Hoja-de-Naruto.jpg",
       "description": "Sudadera negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -4861,7 +4861,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con capucha de Itachi de Naruto",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/xCwt826f/Sudaderas-con-capucha-de-Itachi-de-Naruto.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -4872,7 +4872,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha para hombre Kurama de Naruto",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/BnSNXNBK/Sudadera-con-capucha-para-hombre-Kurama-de-Naruto.jpg",
       "description": "Sudadera naranja con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -4883,7 +4883,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha con las Aldeas Tachadas de Naruto",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/jj9h3T0H/Sudadera-con-capucha-con-las-Aldeas-Tachadas-de-Naruto.jpg",
       "description": "Sudadera negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4894,7 +4894,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas temáticas del Nanatsu No Taizai para hombres.",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/650fJnx5/Sudaderas-tem-ticas-del-Nanatsu-No-Taizai-para-hombres.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -4905,7 +4905,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas sin capucha de Meliodas del Nanatsu No Taizai.",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/DZL1Cbch/Sudaderas-sin-capucha-de-Meliodas-del-Nanatsu-No-Taizai.jpg",
       "description": "Sudadera gris con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4916,7 +4916,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas de los personajes de Nanatsu No Taizai para mujer y hombre",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/v87WffBL/Sudaderas-de-los-personajes-de-Nanatsu-No-Taizai-para-mujer-y-hombre.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -4927,7 +4927,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera Nanatsu No Taizai para niños",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/NjMq9VTh/Sudadera-Nanatsu-No-Taizai-para-ninos-Nanatsu-no-Taizai.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -4938,7 +4938,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera Nanatsu No Taizai para hombre",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/VLJWJW6G/Sudadera-Nanatsu-No-Taizai-para-hombre.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -4949,7 +4949,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de personaje Hawk comiendo de Nanatsu no Taizai",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/8CYvWjCR/Sudadera-de-personaje-Hawk-comiendo-de-Nanatsu-no-Taizai.jpg",
       "description": "Sudadera verde con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4960,7 +4960,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas ilustradas de los personajes de Kimetsu No Yaiba.jpg",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/sXnN5Phn/Sudaderas-ilustradas-de-los-personajes-de-Kimetsu-no-Yaiba.jpg",
       "description": "Sudadera crema con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -4971,7 +4971,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas estampadas de las Mascaras Kitsune de Kimetsu no Yaiba",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/y8FpLCR3/Sudaderas-estampadas-de-las-Mascaras-Kitsune-de-Kimetsu-no-Yaiba.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -4982,7 +4982,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas de Nezuko, Tanjiro y mas de Kimetsu No Yaiba",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/4y7BtDZd/Sudaderas-de-Nezuko-Tanjiro-y-mas-de-Kimetsu-No-Yaiba.jpg",
       "description": "Sudadera blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -4993,7 +4993,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de mascaras de Kimetsu no Yaiba.",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/59DMG1Xs/Sudadera-de-mascaras-de-Kimetsu-no-Yaiba.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -5015,7 +5015,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Inosuke, Zenitsu y Tanjiro de Kimetsu No Yaiba",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/rydxNC6v/Sudadera-con-capucha-de-Inosuke-Zenitsu-y-Tanjiro-de-Kimetsu-No-Yaiba.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5026,7 +5026,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas estampadas de cuello redondo del Jujutsu Kaisen",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/y8FpLCR3/Sudaderas-estampadas-de-las-Mascaras-Kitsune-de-Kimetsu-no-Yaiba.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -5036,8 +5036,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Sudaderas estampada para invierno del Jujutsu Kaisen",
-      "image": "WWW",
+      "name": "Sudaderas estampadas para invierno del Jujutsu Kaisen",
+      "image": "https://i.postimg.cc/qRHVDxbj/Sudaderas-estampada-para-invierno-del-Jujutsu-Kaisen.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5048,7 +5048,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera Masculina con estampado de Satoru Gojo Del Jujutsu Kaisen",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Y0ydZp2M/Sudadera-Masculina-con-estampado-de-Satoru-Gojo-Del-Jujutsu-Kaisen.jpg",
       "description": "Sudadera gris con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -5059,7 +5059,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera estilo Harajuku de Las 6 vistas de Gojo Del Jujutsu Kaisen",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/ZKtH9D9f/Sudadera-estilo-Harajuku-de-Las-6-vistas-de-Gojo-Del-Jujutsu-Kaisen.jpg",
       "description": "Sudadera negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -5070,7 +5070,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera estampadas con Yuji y Fushiguro abrazados del Jujutsu Kaisen.",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/qvCpmqBB/Sudadera-estampadas-con-Yuji-y-Fushiguro-abrazados-del-Jujutsu-Kaisen.jpg",
       "description": "Sudadera crema con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -5081,7 +5081,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Jujutsu Kaisen",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/sfNFtzNM/Sudadera-con-capucha-de-Jujutsu-Kaisen.jpg",
       "description": "Sudadera blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5091,8 +5091,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Sudaderas negro de Stardust Crusaders de JoJo´s Bizarre Adventure",
-      "image": "WWW",
+      "name": "Sudaderas negras de Stardust Crusaders de JoJo´s Bizarre Adventure",
+      "image": "https://i.postimg.cc/W16sRKZx/Sudaderas-negro-de-Stardust-Crusaders-de-Jo-Jo-s-Bizarre-Adventure.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -5103,7 +5103,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera negra sin capucha de Jojo´s Bizarre Adventure",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/BQ3qh4L2/Sudadera-negra-sin-capucha-de-Jojo-s-Bizarre-Adventure.jpg",
       "description": "Sudadera negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5114,7 +5114,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de Stardust Crusaders de JoJo´s Bizarre Adventure",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/J0pRFY2j/Sudaderas-blanca-de-Stardust-Crusaders-de-Jo-Jo-s-Bizarre-Adventure.jpg",
       "description": "Sudadera gris con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -5125,7 +5125,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con ilustración de JoJo’s Bizarre Adventure",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/d3yz2HKq/Sudadera-con-ilustraci-n-de-Jo-Jo-s-Bizarre-Adventure.jpg",
       "description": "Sudadera rosa con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -5136,7 +5136,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Jonathan Joestar de JoJo’s Bizarre Adventure",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/HkphnsjW/Sudadera-con-capucha-de-Jonathan-Joestar-de-Jo-Jo-s-Bizarre-Adventure.jpg",
       "description": "Sudadera blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -5147,7 +5147,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera blanca con ilustración de JoJo’s Bizarre Adventure",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/RCKsTnHV/Sudadera-blanca-con-ilustraci-n-de-Jo-Jo-s-Bizarre-Adventure.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5158,7 +5158,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas Hisoka villano del Hunter X Hunter",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/3RMjyn9j/Sudaderas-Hisoka-villano-del-Hunter-X-Hunter.jpg",
       "description": "Sudadera morada,verde o crema con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -5168,8 +5168,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Sudaderas estampadas con capucha del Hunter x Hunter",
-      "image": "WWW",
+      "name": "Sudaderas estampadas con capucha de Hunter x Hunter",
+      "image": "https://i.postimg.cc/3NYg1Nsd/Sudaderas-estampadas-con-capucha-del-Hunter-x-Hunter.jpg",
       "description": "Sudadera gris con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5180,7 +5180,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con los tatuajes de Hisoka del Hunter X Hunter",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/zfhK1T5y/Sudaderas-con-los-tatuajes-de-Hisoka-del-Hunter-X-Hunter.jpg",
       "description": "Sudadera naranja con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -5191,7 +5191,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera estampada con Killua de Hunter X Hunter",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/6qWvRSZZ/Sudadera-estampada-con-Killua-de-Hunter-X-Hunter.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -5202,7 +5202,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de Killua de Hunter x Hunter",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/5ysFm35R/Sudadera-de-Killua-de-Hunter-x-Hunter.jpg",
       "description": "Sudadera moradacon estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -5213,7 +5213,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de Hisoka de Hunter X Hunter",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/MKGBpCq2/Sudadera-de-Hisoka-de-Hunter-X-Hunter.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5223,8 +5223,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Sudadera del viaje de chihiro del Studio Ghibli",
-      "image": "WWW",
+      "name": "Sudadera del viaje de Chihiro del Studio Ghibli",
+      "image": "https://i.postimg.cc/qqF2TwtC/Sudadera-del-viaje-de-chihiro-del-Studio-Ghibli.jpg",
       "description": "Sudadera crema con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5235,7 +5235,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera del Studio Ghibli",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/1ttg3610/Sudadera-del-Studio-Ghibli.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -5246,7 +5246,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera del castillo ambulante de Studio Ghibli",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/Cx5LD0QY/Sudadera-del-castillo-ambulante-de-Studio-Ghibli.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -5256,8 +5256,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Sudadera de mi vecino de totoro de Studio Ghibli",
-      "image": "WWW",
+      "name": "Sudadera de mi vecino Totoro de Studio Ghibli",
+      "image": "https://i.postimg.cc/ZR8TZ5CP/Sudadera-de-mi-vecino-Totoro-de-Studio-Ghibli.jpg",
       "description": "Sudadera negra y/o con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -5268,7 +5268,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con Yato de 3D de Noragami",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/qRTTmHjN/Sudaderas-con-Yato-de-3-D-de-Noragami.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -5279,7 +5279,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con estampados 3D de los personajes de Noragami",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/85mV9X0t/Sudaderas-con-estampados-3-D-de-los-personajes-de-Noragami.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5301,7 +5301,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas con capucha de Noragami",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/MZBs6jZJ/Sudaderas-con-estampado-3-D-de-Noragami.jpg",
       "description": "Sudadera negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -5312,7 +5312,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de Yato y Hiyori de Noragami",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/cHFd65B6/Sudadera-de-Yato-y-Hiyori-de-Noragami.jpg",
       "description": "Sudadera negra con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -5323,7 +5323,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de Noragami",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/4xRR4gRB/Sudadera-de-Noragami.jpg",
       "description": "Sudadera blanca con estampado a un solo color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5334,7 +5334,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Eiji y Ash comiendo de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/KzCxn3Cy/Sudadera-con-capucha-de-Eiji-y-Ash-comiendo-de-Banana-Fish.jpg",
       "description": "Camisa negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -5345,7 +5345,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha para hombre de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/GhFdy2QZ/Sudadera-con-capucha-para-hombre-de-Banana-Fish.jpg",
       "description": "Camisa beige con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5356,7 +5356,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con estampado de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/jjFbbJxJ/Sudadera-con-estampado-de-Banana-Fish.jpg",
       "description": "Camisa  rosa con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -5367,7 +5367,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de algodon con estampado de Ash Lynx y Eiji Okumura de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/xCmTpPvd/Sudadera-de-algodon-con-estampado-de-Ash-Lynx-y-Eiji-Okumura-de-Banana-Fish.jpg",
       "description": "Camisa roja con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5378,7 +5378,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de Ash Lynx de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/XJ94kYWG/Sudadera-de-Ash-Lynx-de-Banana-Fish.jpg",
       "description": "Camisa negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -5389,7 +5389,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de Lynx de Banana Fish",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/bYTjyMwh/Sudadera-de-Lynx-de-Banana-Fish.jpg",
       "description": "Camisa roja con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -5400,7 +5400,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Eijiro Kirishima de Boku No Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/kGMzRJgd/Sudadera-con-capucha-de-Eijiro-Kirishima-de-Boku-No-Hero.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -5411,7 +5411,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Toya Todoroki Dabi villano de Boku no Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/ZRsFj4Lm/Sudadera-con-capucha-de-Toya-Todoroki-Dabi-villano-de-Boku-no-Hero.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5433,7 +5433,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas de Bakugou Katsuki del Boku No Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/W30SNQmc/Sudaderas-de-Bakugou-Katsuki-del-Boku-No-Hero.jpg",
       "description": "Sudadera negra con estampado blanco.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5444,7 +5444,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas estampadas con capucha de Shoto Todoroki",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/NfZyD5qb/Sudaderas-estampadas-con-capucha-de-Shoto-Todoroki.jpg",
       "description": "Sudadera negra con estampado blanco.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -5455,7 +5455,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudaderas Harajuku de Izuku, Shoto y Katsuki de Boku no Hero",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/2yM50XJ3/Sudaderas-Harajuku-de-Izuku-Shoto-y-Katsuki-de-Boku-no-Hero.jpg",
       "description": "Sudadera negra con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5466,7 +5466,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con capucha de Zero Two de Darling In The Franxx",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/sX0f2N3K/Sudadera-con-capucha-de-Zero-Two-de-Darling-In-The-Franxx.jpg",
       "description": "Sudadera rosa con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 80,
       "active": true,
@@ -5477,7 +5477,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera con estampado de Zero Two de Darling In The Franxx",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/yYCx32Fr/Sudadera-con-estampado-de-Zero-Two-de-Darling-In-The-Franxx.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
@@ -5487,8 +5487,8 @@
     },
     {
       "createdAt": "2022-07-02 01:39:40.890681",
-      "name": "Sudadera con estampado del Zero Two de Darling In The Franxx",
-      "image": "WWW",
+      "name": "Sudadera con estampado de Zero Two de Darling In The Franxx",
+      "image": "https://i.postimg.cc/nhHL07S4/Sudadera-con-estampado-del-Zero-Two-de-Darling-In-The-Franxx.jpg",
       "description": "Sudadera rosa con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 60,
       "active": true,
@@ -5499,7 +5499,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera de Zero Two de Darling In The Franxx",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/W3Jph7tv/Sudadera-de-Zero-Two-de-Darling-In-The-Franxx.jpg",
       "description": "Sudadera rosa con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 70,
       "active": true,
@@ -5510,7 +5510,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera para hombre de Zero Two de Darling In The Franxx",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/hPMn4YMm/Sudadera-para-hombre-de-Zero-Two-de-Darling-In-The-Franxx.jpg",
       "description": "Sudadera blanca con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 65,
       "active": true,
@@ -5521,7 +5521,7 @@
     {
       "createdAt": "2022-07-02 01:39:40.890681",
       "name": "Sudadera unisex de Zero Two de Darling In The Franxx",
-      "image": "WWW",
+      "image": "https://i.postimg.cc/cLbNw8p4/Sudadera-unisex-de-Zero-Two-de-Darling-In-The-Franxx.jpg",
       "description": "Sudadera rosa con estampado a color.\n*Consulta la disponibilidad de nuestras tallas.",
       "price": 75,
       "active": true,
